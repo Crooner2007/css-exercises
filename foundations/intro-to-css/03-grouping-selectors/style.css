@@ -6,3 +6,8 @@
 .luigi{
     background-color:yellow;
 }
+
+.mario.luigi{
+    font-size:28px;
+    font-family:helvetica, "Times New Roman", sans-serif;
+}
