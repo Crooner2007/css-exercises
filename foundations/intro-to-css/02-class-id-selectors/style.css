@@ -11,3 +11,9 @@
 .short{
     font-size:24px;
 }
+
+#slow{
+    background-color:rgb(46, 255, 116);
+    font-size:24px;
+    font-weight:bold;
+}
