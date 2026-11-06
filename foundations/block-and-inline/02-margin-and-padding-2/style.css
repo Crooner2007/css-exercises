@@ -8,7 +8,8 @@ body {
   background: white;
   margin: 16px auto;
   padding-top:15px;
-  padding-bottom:15px;}
+  padding-bottom:15px;
+}
 
 .title,
 .content,
@@ -16,6 +17,7 @@ body {
   background: dodgerblue;
   margin: 15px;
   margin-bottom:0;
+  padding:16px;
 }
 
 button {
